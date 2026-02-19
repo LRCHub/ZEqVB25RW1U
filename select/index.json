@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋はエクスプロージョン",
+  "base_artist": "オーイシマサヨシ",
+  "createdAt": "2026-02-19T02:16:54.775253Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋はエクスプロージョン (feat.田村ゆかり)",
+      "artist": "オーイシマサヨシ",
+      "has_synced": false,
+      "path": "select/pl_01_恋はエクスプロージョン_(feat.田村ゆかり)_オーイシマサヨシ.txt"
+    }
+  ]
+}
